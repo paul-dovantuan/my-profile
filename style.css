@@ -1,6 +1,6 @@
 
 body{
- 	background: #FAEBD7;
+ 	background: #87CEFA;
  	color: #steelblue;
  	font-family: 'Lora', serif; 
  	font-size: 16px;
@@ -10,20 +10,20 @@ h1, h2, h3 {
 	font-family: 'Roboto', sans-serif;
 }
 h1 {
-  	color: #FF7F50;
-  	font-size: 36px;
+  	color: #191970;
+  	font-size: 38px;
   	font-weight: 600;
 }
 h2 {
-  	color: #FF7F50;  
-  	font-size: 25px;
+  	color: #191970;  
+  	font-size: 28px;
   	font-weight: 400;
 }
 a {
  	text-decoration: inherit;
- 	color: #FF7F50;
+ 	color: #191970;
  	font-weight:
- 	font-size: 14px;
+ 	font-size: 18px;
 }
 a:hover {
 	color: black;
@@ -31,8 +31,8 @@ a:hover {
 
  
 .container {
-	width:700px;
-	margin:40px auto;
+	width:900px;
+	margin:55px auto;
 }
 
 @media(max-width: 760px) {
@@ -57,11 +57,11 @@ a:hover {
 }
 
 .img-circle {
-	border-radius: 50%;
+	border-radius: 60%;
 }
 
 .btn-blue {
-	background-color: #95541F;
+	background-color: #191970;
 	color: white;
 	padding: 15px 20px;
 	border-radius: 4px;
@@ -78,7 +78,7 @@ a:hover {
 
 .list-inline li {
 	display: inline;
-	padding: 10px;
+	padding: 15px;
 }
 
 .list-inline i {
@@ -90,5 +90,5 @@ a:hover {
 }
 
 #introduction p {
-	margin-bottom: 40px;
+	margin-bottom: 45px;
 }
